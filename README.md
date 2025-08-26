@@ -36,6 +36,15 @@ This portfolio contains analysis and documentation for simulations performed in 
 
 ---
 
+### [Lab 5: Telnet Access & Post-Exploitation](https://github.com/seerat-fatima21/Telnet-Exp)
+- **Objective:** Gain initial access via Telnet and perform comprehensive post-exploitation.
+- **Key Steps:** Gained access with default credentials (`msfadmin:msfadmin`), leveraged `sudo` rights for immediate privilege escalation to root, extracted and cracked password hashes with `John the Ripper`, and established persistence via a new privileged user.
+- **Result:** Full root compromise, credential harvesting, and guaranteed backdoor access.
+- **Vulnerabilities:** Default credentials, excessive sudo privileges.
+
+---
+
+
 ## Incident Response & Digital Forensics
 
 ### [Incident Response Journal: DFIR Case Studies](https://github.com/seerat-fatima21/DFIR-Case-Studies)
