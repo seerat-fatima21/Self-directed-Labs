@@ -47,12 +47,24 @@ This portfolio contains analysis and documentation for simulations performed in 
 
 ## Incident Response & Digital Forensics
 
-### [Incident Response Journal: DFIR Case Studies](https://github.com/seerat-fatima21/DFIR-Case-Studies)
+### [Lab 1: Incident Response Journal: DFIR Case Studies](https://github.com/seerat-fatima21/DFIR-Case-Studies)
 - **Objective:** Analyze and document security incidents using the 5 W's framework.
 - **Cases:** Ransomware Attack, Malware Infection, Data Breach.
 - **Key Skills:** Root cause analysis, containment strategies, mitigation recommendations.
 
 ---
+
+
+### [Lab 2: Internal Data Leak Case Study](https://github.com/seerat-fatima21/Internal-Data-Leak-Case-study)
+
+- **Objective:** Simulate and analyze a data leak caused by misconfigured sharing permissions.
+- **Incident Summary:** A sales representative accidentally shared an internal-only folder link with a business partner, exposing sensitive product and customer data publicly.
+- **Key Steps:** Applied the 5 W's framework (What, When, Where, Who, Why); assessed misconfiguration against NIST SP 800-53 AC-6 (Least Privilege).
+- **Result:** Identified excessive access, recommended access restrictions, RBAC implementation, external sharing prevention, and regular access audits.
+- **Key Skills:** Access control analysis, incident response, NIST framework application, DFIR principles.
+
+---
+
 
 ## Technical Skills
 
